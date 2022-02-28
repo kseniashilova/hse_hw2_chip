@@ -33,3 +33,12 @@ Bioinformatics HW2
 |ENCFF000AQC (реплика 2) |   34325063       | 25931549 (75.55%) | 2091212 (6.09%)       |6302302 (18.36%)  |
 |ENCFF000AOG (контроль)  |      41060673    | 31902898 (77.70%) | 2779973 (6.77%)       | 6377802 (15.53%) |
  
+## 2. Venn diagram
+##### ENCFF000AQB (реплика 1) 
+![](https://github.com/kseniashilova/hse_hw2_chip/blob/main/pic/intervene_venn1_1.PNG)
+![](https://github.com/kseniashilova/hse_hw2_chip/blob/main/pic/intervene_venn1_2.PNG)
+##### ENCFF000AQC (реплика 2)
+![](https://github.com/kseniashilova/hse_hw2_chip/blob/main/pic/intervene_venn2_1.PNG)
+![](https://github.com/kseniashilova/hse_hw2_chip/blob/main/pic/intervene_venn2_2.PNG)
+
+# Бонус
