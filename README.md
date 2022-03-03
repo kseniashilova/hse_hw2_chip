@@ -35,3 +35,5 @@ Bioinformatics HW2
 <img src="https://github.com/kseniashilova/hse_hw2_chip/blob/main/pic/intervene_venn2_1.PNG" alt="" width="500"/>   <img src="https://github.com/kseniashilova/hse_hw2_chip/blob/main/pic/intervene_venn2_2.PNG" alt="" width="500"/>
 
 # Бонус
+![](https://github.com/kseniashilova/hse_hw2_chip/blob/main/pic/result1.png)
+![](https://github.com/kseniashilova/hse_hw2_chip/blob/main/pic/result2.png)
